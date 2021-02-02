@@ -1,0 +1,9 @@
+#news{
+    color: white;
+    text-align: center;
+}
+
+.panda-slide .carousel-item{
+    background-color: #fceae8;
+    border-radius: 1em;
+}
